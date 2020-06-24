@@ -1,0 +1,16 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "admin",
+        "password": "lZl8W2J24M5k",
+        "database": "ordbogen-test",
+        "port": "3306"
+    },
+    "token": {
+        "secret": "ordbogen-test",
+        "type": "JWT",
+        "algoritme": "SHA256",
+        "ttl": "7200"
+    }
+    
+}
